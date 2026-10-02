@@ -1,3 +1,4 @@
+
 '''
 Dada una matriz de identidad nxn
 mostrar en color azul solo la diagonal de 1

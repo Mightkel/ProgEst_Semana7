@@ -32,3 +32,4 @@ for i in range(len(matrizA)):
         
 for i in matrizC:
     print(i)
+    
